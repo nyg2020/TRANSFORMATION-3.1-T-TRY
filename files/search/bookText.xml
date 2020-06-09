@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="10"><page Index="1"><![CDATA[Chapter 3 3.1
+
+
+
+
+
+                     Transformations III
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                 Prepared by
+
+
+                                                            Ng Yoke Go
+
+
+
+                                                    Created 2008, Revised 2020
+                                                                                                09-06-205:24:49 PM
+                                                                                                 09-06-205:24:49 PM]]></page><page Index="2"><![CDATA[What is Translation
+
+
+
+
+
+
+
+                           • Translation is a type of  transformation that moves
+
+
+                                all the points of an object to a new location with
+
+                                the same horizontal and vertical distance
+
+
+
+                           • The size, the shape and the orientation of the
+
+
+                                image are the same as that of the original object.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                09-06-205:24:49 PM
+                                                                                                 09-06-205:24:49 PM
+
+                                                                                         Object]]></page><page Index="3"><![CDATA[What is Translation
+
+
+
+
+
+
+
+                                                                                        h     –            +
+                           • Description : Translation                                              +
+                                                                                        k
+                                                                                                     –
+
+                           • h : horizontal movement , + to the right, – to the left
+
+
+
+                           • k : vertical movement, + move up, – move down
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                   –8
+
+
+                                                –2
+                                                                                                                      3
+
+
+                                                                                                09-06-205:24:49 PM
+                                                                                                            3
+                                                                                                 09-06-205:24:49 PM
+                                                                                        Object]]></page><page Index="4"><![CDATA[Find The Image of a Point
+
+
+
+
+
+
+
+                              • State coordinates of the image
+
+
+                                                   y                                             Translation              2      right
+
+                                                                A                                                         3        up
+                                                 7                 1
+
+                                                                                                             4,
+                                                 6                    3                          A =       (        ) 7
+                                                                                                   1
+                                                 5       A                B                                              -4
+                                                 4    4         2           2                    Translation                       left
+
+                                                 3                        2                                              -6       down
+
+                                                                                                          (          )
+                                                  2                            3                 A = -2, -2
+                                                                                                    2
+                                         6        1     B 3     4       B        B 1   1                                 3      right
+
+                                                                                       x         Translation
+                                     -3   -2  -1 0      1 2 3 4 5            6 7 8                                      -1      down
+                                                -1
+
+                                                                                                            8,
+                                        A 2     -2                                               B = (        ) 1
+                                                                                                   1
+
+                                                                                                09-06-205:24:49 PM       -4       left
+                                                                                                 09-06-205:24:49 PM
+                                                                                                Translation
+                                                                                                                         0
+                                                       0
+                              Translation                             B = (        ) 4           B = 1, 2
+                                                                                                          (        )
+                                                                                 5,
+                                                       2      up         2                         3
+                                                                                                                     Exercise 3.1 Q 1]]></page><page Index="5"><![CDATA[Draw The Image of an Object
+
+
+
+
+
+
+
+
+                           • Draw the image of triangle ABC under
+
+
+
+
+
+                                                         -3       left
+                                 Translation                                                     A  1
+                                                         4         up
+
+
+
+
+
+                                                         0
+                                 Translation                                                     B 1               C
+                                                         -3      down                    A  3                   A    1
+
+                                                                                                   4
+
+
+                                                         -5       left                                        A
+                                 Translation                                                               3     2
+                                                         0                                 B 3         5 C  3  B               C
+
+
+                                                                                                                3
+
+
+                                                                                                09-06-205:24:49 PM              C
+                                                                                                 09-06-205:24:49 PM
+                                 h                                                                             B 2                2
+
+                                 k
+
+
+                                                                                                                     Exercise 3.1 Q 2]]></page><page Index="6"><![CDATA[Determine Translation Vector
+
+
+
+
+
+
+
+
+                           B is the image of A
+
+                           under translation
+
+
+
+                           Translation                   2      right                                                   B
+                                                 =
+                           vector                        3        up
+
+
+                                                                                                                         3
+
+
+
+
+                                                                                                           A     2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                09-06-205:24:49 PM
+                                                                                                 09-06-205:24:49 PM]]></page><page Index="7"><![CDATA[Determine Translation Vector
+
+
+
+
+
+
+
+
+                           B is the image of A
+
+                           under translation
+
+
+
+                           Translation                   2                                                       2      B
+                                                 =
+                           vector                        3
+
+                                                                                                         3
+
+                           A is the image of B                                                  4
+
+                           under translation
+                                                                                    C                      A
+
+                           Translation                  -2       left
+
+                                                  =
+                           vector                       -3      down
+
+
+
+
+                          C is the image of A
+
+
+                          under translation                                                     09-06-205:24:49 PM
+                                                                                                 09-06-205:24:49 PM
+
+
+                           Translation                  -4       left
+                                                 =
+                           vector                        0]]></page><page Index="8"><![CDATA[Determine Translation Vector
+
+
+
+
+
+
+
+
+
+                         ΔQ is the image of ΔP under
+
+                         translation.                                                                                 4
+
+
+                                                                 4      Right
+                         Translation vector =                                                      O
+                                                                -5      down                             P
+
+
+
+                                                                                                                                  5
+
+                          ΔR is the image of ΔQ under                                        I
+
+
+                          translation.                                                             R
+
+                                                                 -5       left
+                         Translation vector =                                             2                             O              I
+                                                                 2        up                                                   Q
+
+
+                                                                                                           5
+
+
+
+
+                                                                                                09-06-205:24:49 PM
+                                                                                                 09-06-205:24:49 PM]]></page><page Index="9"><![CDATA[Describe Translation
+
+
+
+
+
+
+
+
+
+                            PQR is the image of ABC under a transformation V.
+
+                            Describe transformation V.
+
+
+
+                                                    –3         left                                      P
+                            Translation
+                                                      6         up
+
+                                                                                                                   I
+
+                            ABC is the image of JKL
+
+
+                            under a transformation V.                                                 Q             R
+
+                            Describe transformation V.                                                     6
+
+                                                                                      J
+                                                      6        right                                                    1   A
+                            Translation                                                                6
+                                                     –1       down
+
+                                                                                                                                   O
+                                                                                            O
+                                                                                                09-06-205:24:49 PM
+                                                                                                 09-06-205:24:49 PM
+                                                                                      K              L                         I
+
+                            Note :                                                                                3     B              C
+
+                            The name of the transformation, that is
+
+                            translation must be included in the description                                     Exercise 3.1 Q 3 & 4]]></page><page Index="10"><![CDATA[Identify Translation
+
+
+
+
+
+                                                                                                                     Is a translation
+                                  Not a translation                                           B                   C
+
+
+                                                            P
+
+
+
+
+                                  A                                                               A               Q                  R
+
+
+                                                      Q                                                      D
+
+                                                                                       AB and PQ, BC and
+                                                                       R               QR,… are parallel to
+
+                                   B              C                                    each other                     P           S
+
+
+
+                                                                                                                                          o
+                                                                                          Not a translation (rotation 90 )
+                                  Not a translation (reflection)
+                                                                                             B                C
+                                    B                                Q
+
+
+                                                                                                                      P                Q
+
+                                                                                                              D
+                                                                                             A 09-06-205:24:49 PM
+                                                                                                 09-06-205:24:49 PM
+                                    A            C        R           P
+                                                                                                                      S                R
+
+
+                           Read alphabets A→B→C, P→Q→R                                   AB and PQ, BC and QR,… are
+                           Sequences are in opposite direction                           right angled to each other]]></page></pages></Search>
